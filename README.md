@@ -1,5 +1,7 @@
-Схема составленной сети:
+Схема сети:
+
 ![network](https://github.com/trololo23/HSE-NET/assets/92026039/d5effb62-5386-4bef-be4b-a07c5d9137f2)
+
 Вывод с устройств:
 VPC_A:
 ```
